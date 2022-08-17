@@ -1,0 +1,16 @@
+.DS_store
+.dist
+.jshintignore
+.npm
+.project
+.sessions.json
+.tern-project
+.i18n-editor-metadata
+*.backup
+*.bak
+*_cred*
+node_modules
+!packages/node_modules
+.vscode
+.nyc_output
+sync.ffs_db

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c9fa85-265a-4a16-bd5a-9afa3faba681" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2CI0nx2bkmZWWEcmRUntl6DHdkl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\node-red" />
+      <recent name="E:\workspace\node-red\packages\node_modules\@node-red\editor-client\src\images" />
+      <recent name="E:\workspace\node-red\packages\node_modules\@node-red\editor-client\public" />
+      <recent name="E:\workspace\node-red\packages\node_modules\@node-red\editor-client\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c9fa85-265a-4a16-bd5a-9afa3faba681" name="Changes" comment="" />
+      <created>1658474962508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658474962508</updated>
+      <workItem from="1658474966536" duration="948000" />
+      <workItem from="1658551322084" duration="21465000" />
+      <workItem from="1658630840565" duration="19798000" />
+      <workItem from="1658711202110" duration="1846000" />
+      <workItem from="1658729951274" duration="705000" />
+      <workItem from="1658731837930" duration="798000" />
+      <workItem from="1658736051799" duration="7031000" />
+      <workItem from="1658752505500" duration="2847000" />
+      <workItem from="1658796461134" duration="17033000" />
+      <workItem from="1658828371295" duration="595000" />
+      <workItem from="1658834790888" duration="6392000" />
+      <workItem from="1658883426442" duration="4096000" />
+      <workItem from="1658977934685" duration="4233000" />
+      <workItem from="1659012356169" duration="5818000" />
+      <workItem from="1659056516628" duration="736000" />
+      <workItem from="1659073705116" duration="47000" />
+      <workItem from="1659315127412" duration="80000" />
+      <workItem from="1659948562238" duration="735000" />
+      <workItem from="1660004912551" duration="1737000" />
+      <workItem from="1660611465690" duration="9760000" />
+      <workItem from="1660642844903" duration="1309000" />
+      <workItem from="1660644995966" duration="1590000" />
+      <workItem from="1660654017624" duration="1259000" />
+      <workItem from="1660696687339" duration="1989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
