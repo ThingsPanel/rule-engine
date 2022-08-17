@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9c9fa85-265a-4a16-bd5a-9afa3faba681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/guide-5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/img_3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/node_modules/@node-red/nodes/core/common/20-inject.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/@node-red/nodes/core/common/20-inject.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <workItem from="1660642844903" duration="1309000" />
       <workItem from="1660644995966" duration="1590000" />
       <workItem from="1660654017624" duration="1259000" />
-      <workItem from="1660696687339" duration="10483000" />
+      <workItem from="1660696687339" duration="10677000" />
     </task>
     <servers />
   </component>
