@@ -1,65 +1,37 @@
 # 规则引擎
 
-Low-code programming for event-driven applications.
+一款功能强大的可视化流编程工具
 
-![Node-RED: Low-code programming for event-driven applications](http://nodered.org/images/node-red-screenshot.png)
+## 本地安装
 
-## 安装
+1. `git clone https://github.com/ThingsPanel/rule-engine.git`
+2. `cd rule-engine`
+3. `npm instal`
+4. `npm start`
+5. 在浏览器中打开 http://localhost:1880
+![img_3.png](screenshots/img_3.png)
 
-Check out http://nodered.org/docs/getting-started/ for full instructions on getting
-started.
+## 在线体验
+http://dev.thingspanel.cn:1880/
 
-1. `sudo npm install -g --unsafe-perm node-red`
-2. `node-red`
-3. Open <http://localhost:1880>
+## 入门指南
 
-## Getting Help
+### 1. 添加注入节点
+注入节点允许您将消息注入流中，在左侧的节点中找到`inject`节点，把它拖动到编辑器中。如图所示：
+![img_1.png](screenshots/img_1.png)
+### 2. 添加调试节点
+`debug`节点会在调试侧栏中输出调试信息，在左侧的节点中找到`debug`节点，把它拖动到编辑器中。
 
-More documentation can be found [here](http://nodered.org/docs).
+### 3. 将两者连接在一起
+通过在一个节点的输出端口与另一个节点的输入端口之间拖动来将 Inject 节点和 Debug 节点连接在一起。  
+效果如图：
+![img.png](screenshots/img.png)
 
-For further help, or general discussion, please use the [Node-RED Forum](https://discourse.nodered.org) or [slack team](https://nodered.org/slack).
+### 4. 部署
+此时，节点仅存在于编辑器中，必须部署到服务器中才能生效。
+点击右上角的"保存并运行"按钮。
+![img_2.png](screenshots/img_2.png)
 
-## Developers
-
-If you want to run the latest code from git, here's how to get started:
-
-1. Clone the code:
-
-        git clone https://github.com/node-red/node-red.git
-        cd node-red
-
-2. Install the node-red dependencies
-
-        npm install
-
-3. Build the code
-
-        npm run build
-
-4. Run
-
-        npm start
-
-## Contributing
-
-Before raising a pull-request, please read our
-[contributing guide](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md).
-
-This project adheres to the [Contributor Covenant 1.4](http://contributor-covenant.org/version/1/4/).
- By participating, you are expected to uphold this code. Please report unacceptable
- behavior to any of the project's core team at team@nodered.org.
-
-## Authors
-
-Node-RED is a project of the [OpenJS Foundation](http://openjsf.org).
-
-It is maintained by:
-
- * Nick O'Leary [@knolleary](http://twitter.com/knolleary)
- * Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
- * And many others...
-
-
-## Copyright and license
-
-Copyright OpenJS Foundation and other contributors, https://openjsf.org under [the Apache 2.0 license](LICENSE).
+### 5. 查看调试信息
+点击"注入"按钮。在调试信息栏中我们会看到输出的信息。
+![](screenshots/guide-5.gif)
