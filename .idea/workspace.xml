@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9c9fa85-265a-4a16-bd5a-9afa3faba681" name="Changes" comment="" />
+    <list default="true" id="d9c9fa85-265a-4a16-bd5a-9afa3faba681" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/red.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/red.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/red/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/vendor/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/@node-red/editor-client/public/vendor/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/node_modules/node-red/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/node_modules/node-red/settings.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../packages/thingspanel/base-plug-in" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -87,6 +94,9 @@
       <workItem from="1661302010563" duration="1220000" />
       <workItem from="1661346366606" duration="41000" />
       <workItem from="1661826293397" duration="266000" />
+      <workItem from="1661828849101" duration="650000" />
+      <workItem from="1663038240701" duration="87000" />
+      <workItem from="1663508123231" duration="193000" />
     </task>
     <servers />
   </component>
