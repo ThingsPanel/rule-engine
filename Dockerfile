@@ -1,5 +1,6 @@
 # from 构建镜像的基础源镜像 该image镜像文件继承官方的node image
-FROM node:16.14.2-alpine3.15
+# FROM node:16.14.2-alpine3.15
+FROM nikolaik/python-nodejs:python3.10-nodejs16-alpine
 # 在容器中创建一个目录
 RUN mkdir -p /usr/src/app/
 # 定位到容器的工作目录
