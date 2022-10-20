@@ -6,7 +6,7 @@
 
 1. `git clone https://github.com/ThingsPanel/rule-engine.git`
 2. `cd rule-engine`
-3. `npm instal`
+3. `npm install`
 4. `npm start`
 5. 在浏览器中打开 http://localhost:1880  
 ![img_3.png](screenshots/main-ui.png)
