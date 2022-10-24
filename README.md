@@ -35,3 +35,6 @@ http://dev.thingspanel.cn:1880/
 ### 5. 查看调试信息  
 点击"注入"按钮。在调试信息栏中我们会看到输出的信息。  
 ![](screenshots/guide-5.gif)  
+
+### 6. 安装modbus节点
+可能需要在容器里执行apk add gcc g++ make cmake gfortran libffi-dev openssl-dev libtool 安装运行环境
